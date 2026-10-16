@@ -2,8 +2,8 @@
   "convenienceFee": 400,
   "whatsapp": "919942565218",
   "telegram": "Thanosform",
-  "latestVersion": 4,
-  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v4.apk",
+  "latestVersion": 5,
+  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v5.apk",
   "accounts": [
     {
       "username": "Shivam",
