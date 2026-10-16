@@ -1,0 +1,32 @@
+# Deletes My-files PDFs 2 hours after they were sent.
+# GitHub runs scheduled jobs roughly every 10 minutes (sometimes a few minutes late).
+name: Delete expired files
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vault-cleanup
+  cancel-in-progress: false
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Delete expired files
+        run: python3 .github/cleanup_vault.py
+      - name: Save changes
+        run: |
+          if [ -n "$(git status --porcelain vault)" ]; then
+            git config user.name "file-cleanup-bot"
+            git config user.email "file-cleanup-bot@users.noreply.github.com"
+            git add -A vault
+            git commit -m "Delete expired files"
+            git push
+          fi
