@@ -2,8 +2,8 @@
   "convenienceFee": 400,
   "whatsapp": "919942565218",
   "telegram": "Thanosform",
-  "latestVersion": 5,
-  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v5.apk",
+  "latestVersion": 6,
+  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v6.apk",
   "accounts": [
     {
       "username": "Shivam",
@@ -12,7 +12,20 @@
     },
     {
       "username": "Priyanshu",
-      "passwordHash": "c07055f92c629e412aed12061dc5ff195d767f7a92c2af20770fda80f21da952"
+      "passwordHash": "c07055f92c629e412aed12061dc5ff195d767f7a92c2af20770fda80f21da952",
+      "convenienceFee": 500,
+      "feeRules": [
+        {
+          "upToPassengers": 3,
+          "SL": 600,
+          "other": 500
+        },
+        {
+          "upToPassengers": 4,
+          "SL": 500,
+          "other": 400
+        }
+      ]
     },
     {
       "username": "Kanhaiya",
