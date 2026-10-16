@@ -1,10 +1,14 @@
 # Deletes My-files PDFs 2 hours after they were sent.
-# GitHub runs scheduled jobs roughly every 10 minutes (sometimes a few minutes late).
+# Runs on a timer, and also on every change to this repository (e.g. each time a file is
+# sent), so a delayed or skipped timer is caught up the next time anything happens here.
+# Off-the-hour minutes avoid GitHub's busiest moments, when timed jobs get dropped.
 name: Delete expired files
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "4,14,24,34,44,54 * * * *"
+  push:
+    branches: [main]
   workflow_dispatch: {}
 
 permissions:
