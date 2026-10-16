@@ -17,6 +17,26 @@
     {
       "username": "Kanhaiya",
       "passwordHash": "c8460c7f70dd7c01d8408b49a503b1b63a6fdc4bc2f7ee672445aebc9c40da40"
+    },
+    {
+      "username": "Sakshi",
+      "passwordHash": "0dd3c1accd46d098557fc0a1684e507cc1303ca4f642e45793e93956f5d27610"
+    },
+    {
+      "username": "Deepu",
+      "passwordHash": "6139e5b7f183d002a9ff3a6f568adf93f1d5c2d350d0cf1824be1a76d57c73ad"
+    },
+    {
+      "username": "Vaibhav",
+      "passwordHash": "fc5884428c0f557b05deb1fa18403be2b23577b5abe04add67888f2997ea2863"
+    },
+    {
+      "username": "Haan Ji",
+      "passwordHash": "0704b874a343b265aaae4185157f2eb6819a9469c08c1d724190aa1ea28df2c4"
+    },
+    {
+      "username": "Demo",
+      "passwordHash": "a0a35dd3f4560972ef7e3c814b81a4dd5d40c33fb27e5a032b3a025ff207c596"
     }
   ]
 }
