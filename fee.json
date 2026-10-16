@@ -7,7 +7,8 @@
   "accounts": [
     {
       "username": "Shivam",
-      "passwordHash": "bdca6e67a88437a5f738a886846cb0c00268bffca9e9904a23a0d882cd1644cf"
+      "passwordHash": "bdca6e67a88437a5f738a886846cb0c00268bffca9e9904a23a0d882cd1644cf",
+      "due": 14650
     },
     {
       "username": "Priyanshu",
