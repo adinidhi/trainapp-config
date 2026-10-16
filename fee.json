@@ -4,8 +4,10 @@
   "telegram": "Thanosform",
   "whatsappButton": true,
   "telegramButton": true,
-  "latestVersion": 8,
-  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v8.apk",
+  "myFiles": true,
+  "fileDownload": true,
+  "latestVersion": 9,
+  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v9.apk",
   "accounts": [
     {
       "username": "Shivam",
