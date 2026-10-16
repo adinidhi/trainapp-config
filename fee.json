@@ -2,8 +2,8 @@
   "convenienceFee": 400,
   "whatsapp": "919942565218",
   "telegram": "Thanosform",
-  "latestVersion": 6,
-  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v6.apk",
+  "latestVersion": 7,
+  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v7.apk",
   "accounts": [
     {
       "username": "Shivam",
@@ -41,7 +41,8 @@
     },
     {
       "username": "Vaibhav",
-      "passwordHash": "fc5884428c0f557b05deb1fa18403be2b23577b5abe04add67888f2997ea2863"
+      "passwordHash": "fc5884428c0f557b05deb1fa18403be2b23577b5abe04add67888f2997ea2863",
+      "alert": "Advance Payment Required"
     },
     {
       "username": "Haan Ji",
