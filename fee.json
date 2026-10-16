@@ -1,4 +1,7 @@
 {
   "convenienceFee": 400,
-  "whatsapp": "919942565218"
+  "whatsapp": "919942565218",
+  "telegram": "Thanosform",
+  "latestVersion": 3,
+  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v3.apk"
 }
