@@ -6,8 +6,8 @@
   "telegramButton": true,
   "myFiles": true,
   "fileDownload": true,
-  "latestVersion": 14,
-  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v14.apk",
+  "latestVersion": 15,
+  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v15.apk",
   "accounts": [
     {
       "username": "Shivam",
