@@ -57,6 +57,10 @@
     {
       "username": "Demo",
       "passwordHash": "a0a35dd3f4560972ef7e3c814b81a4dd5d40c33fb27e5a032b3a025ff207c596"
+    },
+    {
+      "username": "Ravi",
+      "passwordHash": "cb39d37b11993a0ee1230cfd72c7c2cb72e34773642fa3c2c18e88cc518a8660"
     }
   ]
 }
