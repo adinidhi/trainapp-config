@@ -17,17 +17,17 @@
     {
       "username": "Priyanshu",
       "passwordHash": "c07055f92c629e412aed12061dc5ff195d767f7a92c2af20770fda80f21da952",
-      "convenienceFee": 500,
+      "convenienceFee": 650,
       "feeRules": [
         {
           "upToPassengers": 3,
-          "SL": 600,
-          "other": 500
+          "SL": 750,
+          "other": 650
         },
         {
           "upToPassengers": 4,
-          "SL": 500,
-          "other": 400
+          "SL": 650,
+          "other": 550
         }
       ]
     },
