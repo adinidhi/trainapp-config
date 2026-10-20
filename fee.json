@@ -7,8 +7,8 @@
   "myFiles": true,
   "fileDownload": true,
   "fileShare": true,
-  "latestVersion": 20,
-  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v20.apk",
+  "latestVersion": 21,
+  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v21.apk",
   "accounts": [
     {
       "username": "Shivam",
@@ -62,6 +62,14 @@
     {
       "username": "Ravi",
       "passwordHash": "cb39d37b11993a0ee1230cfd72c7c2cb72e34773642fa3c2c18e88cc518a8660"
+    }
+  ],
+  "messages": [
+    {
+      "id": "2026-10-20-season",
+      "title": "Train Search",
+      "text": "Season aa rha lekin logo ke form nahi",
+      "until": "2026-10-27"
     }
   ]
 }
