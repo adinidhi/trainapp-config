@@ -7,8 +7,8 @@
   "myFiles": true,
   "fileDownload": true,
   "fileShare": true,
-  "latestVersion": 25,
-  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v25.apk",
+  "latestVersion": 26,
+  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v26.apk",
   "accounts": [
     {
       "username": "Shivam",
@@ -1254,5 +1254,6 @@
       "ZNA",
       "ZNP"
     ]
-  }
+  },
+  "pnrCheck": true
 }
