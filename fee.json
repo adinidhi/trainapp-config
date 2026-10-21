@@ -70,6 +70,12 @@
       "title": "Train Search",
       "text": "Season aa rha lekin logo ke form nahi",
       "until": "2026-10-27"
+    },
+    {
+      "id": "2026-10-21-closed",
+      "title": "Train Search",
+      "text": "Tomorrow work closed ❌",
+      "until": "2026-10-22"
     }
   ],
   "festivalTheme": true,
