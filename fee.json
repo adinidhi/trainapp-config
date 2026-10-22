@@ -85,6 +85,19 @@
   "festivalTheme": true,
   "routeFees": [
     {
+      "name": "Chintu: Uttar Pradesh to Mumbai",
+      "from": [
+        "UP"
+      ],
+      "to": [
+        "MUMBAI"
+      ],
+      "fee": 1200,
+      "users": [
+        "Chintu"
+      ]
+    },
+    {
       "name": "Uttar Pradesh to Mumbai",
       "from": [
         "UP"
