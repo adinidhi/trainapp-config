@@ -62,6 +62,10 @@
     {
       "username": "Ravi",
       "passwordHash": "cb39d37b11993a0ee1230cfd72c7c2cb72e34773642fa3c2c18e88cc518a8660"
+    },
+    {
+      "username": "Chintu",
+      "passwordHash": "1ba9aa981d8a6ae1e16cd4d4e35fe5b872c260ea2d0a0f3c08e056f28d11bf5d"
     }
   ],
   "messages": [
