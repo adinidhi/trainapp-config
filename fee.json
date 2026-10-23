@@ -7,8 +7,8 @@
   "myFiles": true,
   "fileDownload": true,
   "fileShare": true,
-  "latestVersion": 41,
-  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v41.apk",
+  "latestVersion": 42,
+  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v42.apk",
   "accounts": [
     {
       "username": "Shivam",
@@ -2089,5 +2089,11 @@
       "ZRDE"
     ]
   },
-  "pnrCheck": true
+  "pnrCheck": true,
+  "trainTags": {
+    "11055": "Hard",
+    "11059": "Hard",
+    "11061": "Hard",
+    "15182": "Hard"
+  }
 }
