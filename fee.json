@@ -7,8 +7,8 @@
   "myFiles": true,
   "fileDownload": true,
   "fileShare": true,
-  "latestVersion": 42,
-  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v42.apk",
+  "latestVersion": 43,
+  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v43.apk",
   "accounts": [
     {
       "username": "Shivam",
@@ -2094,6 +2094,14 @@
     "11055": "Hard",
     "11059": "Hard",
     "11061": "Hard",
-    "15182": "Hard"
+    "15182": "Hard",
+    "22971": "Preferred",
+    "22360": "Preferred",
+    "12741": "Preferred",
+    "12293": "Preferred",
+    "11015": "Preferred",
+    "15659": "Preferred",
+    "19091": "Preferred",
+    "11081": "Preferred"
   }
 }
