@@ -80,10 +80,13 @@
       "until": "2026-10-27"
     },
     {
-      "id": "2026-10-21-closed",
+      "id": "2026-10-24-priyanshu-cancelled",
       "title": "Train Search",
-      "text": "Tomorrow work closed ❌",
-      "until": "2026-10-22"
+      "text": "Your ticket is cancelled",
+      "to": [
+        "Priyanshu"
+      ],
+      "until": "2026-10-25"
     }
   ],
   "festivalTheme": true,
