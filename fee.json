@@ -110,6 +110,19 @@
   "festivalTheme": true,
   "routeFees": [
     {
+      "name": "Priyanshu: LTT to GKP",
+      "from": [
+        "LTT"
+      ],
+      "to": [
+        "GKP"
+      ],
+      "fee": 1500,
+      "users": [
+        "Priyanshu"
+      ]
+    },
+    {
       "name": "Dbg: Mumbai to UP/Bihar",
       "from": [
         "MUMBAI"
