@@ -7,8 +7,8 @@
   "myFiles": true,
   "fileDownload": true,
   "fileShare": true,
-  "latestVersion": 50,
-  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v50.apk",
+  "latestVersion": 51,
+  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v51.apk",
   "accounts": [
     {
       "username": "Shivam",
@@ -2153,7 +2153,9 @@
       "ratePerKm": 14,
       "image": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/cabs/premium-ertiga.jpg",
       "style": 0,
-      "minFare": 500
+      "minFare": 500,
+      "shortTripKm": 200,
+      "shortRatePerKm": 20
     },
     {
       "name": "Luxury",
@@ -2162,7 +2164,9 @@
       "ratePerKm": 25,
       "image": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/cabs/luxury-innova-crysta.jpg",
       "style": 1,
-      "minFare": 800
+      "minFare": 800,
+      "shortTripKm": 200,
+      "shortRatePerKm": 30
     }
   ]
 }
