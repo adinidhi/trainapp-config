@@ -7,8 +7,8 @@
   "myFiles": true,
   "fileDownload": true,
   "fileShare": true,
-  "latestVersion": 49,
-  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v49.apk",
+  "latestVersion": 50,
+  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v50.apk",
   "accounts": [
     {
       "username": "Shivam",
@@ -2151,7 +2151,7 @@
       "model": "Maruti Ertiga",
       "seats": "6 + driver",
       "ratePerKm": 14,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/cabs/premium-ertiga.jpg",
       "style": 0,
       "minFare": 500
     },
@@ -2160,7 +2160,7 @@
       "model": "Toyota Innova Crysta",
       "seats": "7 + driver",
       "ratePerKm": 25,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/cabs/luxury-innova-crysta.jpg",
       "style": 1,
       "minFare": 800
     }
