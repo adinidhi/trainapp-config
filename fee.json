@@ -7,8 +7,8 @@
   "myFiles": true,
   "fileDownload": true,
   "fileShare": true,
-  "latestVersion": 48,
-  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v48.apk",
+  "latestVersion": 49,
+  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v49.apk",
   "accounts": [
     {
       "username": "Shivam",
@@ -2152,7 +2152,8 @@
       "seats": "6 + driver",
       "ratePerKm": 14,
       "image": "",
-      "style": 0
+      "style": 0,
+      "minFare": 500
     },
     {
       "name": "Luxury",
@@ -2160,7 +2161,8 @@
       "seats": "7 + driver",
       "ratePerKm": 25,
       "image": "",
-      "style": 1
+      "style": 1,
+      "minFare": 800
     }
   ]
 }
