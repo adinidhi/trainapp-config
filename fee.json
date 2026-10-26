@@ -110,6 +110,19 @@
   "festivalTheme": true,
   "routeFees": [
     {
+      "name": "Priyanshu: LTT to UP",
+      "from": [
+        "LTT"
+      ],
+      "to": [
+        "UP"
+      ],
+      "fee": 1000,
+      "users": [
+        "Priyanshu"
+      ]
+    },
+    {
       "name": "Priyanshu: any trip on LTT→GKP trains",
       "from": [
         "LTT"
