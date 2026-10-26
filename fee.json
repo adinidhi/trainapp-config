@@ -7,8 +7,8 @@
   "myFiles": true,
   "fileDownload": true,
   "fileShare": true,
-  "latestVersion": 47,
-  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v47.apk",
+  "latestVersion": 48,
+  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v48.apk",
   "accounts": [
     {
       "username": "Shivam",
@@ -2144,5 +2144,23 @@
     "15068": "Preferred",
     "20103": "Hard"
   },
-  "generalDays": 65
+  "generalDays": 65,
+  "cabs": [
+    {
+      "name": "Premium",
+      "model": "Maruti Ertiga",
+      "seats": "6 + driver",
+      "ratePerKm": 14,
+      "image": "",
+      "style": 0
+    },
+    {
+      "name": "Luxury",
+      "model": "Toyota Innova Crysta",
+      "seats": "7 + driver",
+      "ratePerKm": 25,
+      "image": "",
+      "style": 1
+    }
+  ]
 }
