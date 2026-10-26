@@ -18,17 +18,17 @@
     {
       "username": "Priyanshu",
       "passwordHash": "c07055f92c629e412aed12061dc5ff195d767f7a92c2af20770fda80f21da952",
-      "convenienceFee": 650,
+      "convenienceFee": 1050,
       "feeRules": [
         {
           "upToPassengers": 3,
-          "SL": 750,
-          "other": 650
+          "SL": 1150,
+          "other": 1050
         },
         {
           "upToPassengers": 4,
-          "SL": 650,
-          "other": 550
+          "SL": 1050,
+          "other": 950
         }
       ]
     },
@@ -117,7 +117,7 @@
       "to": [
         "GKP"
       ],
-      "fee": 1500,
+      "fee": 1900,
       "users": [
         "Priyanshu"
       ],
