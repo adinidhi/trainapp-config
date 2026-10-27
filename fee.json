@@ -7,8 +7,8 @@
   "myFiles": true,
   "fileDownload": true,
   "fileShare": true,
-  "latestVersion": 51,
-  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v51.apk",
+  "latestVersion": 52,
+  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v52.apk",
   "accounts": [
     {
       "username": "Shivam",
