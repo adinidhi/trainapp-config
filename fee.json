@@ -7,8 +7,8 @@
   "myFiles": true,
   "fileDownload": true,
   "fileShare": true,
-  "latestVersion": 53,
-  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v53.apk",
+  "latestVersion": 54,
+  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v54.apk",
   "accounts": [
     {
       "username": "Shivam",
@@ -2181,5 +2181,8 @@
       "shortTripKm": 200,
       "shortRatePerKm": 30
     }
-  ]
+  ],
+  "nameSearch": true,
+  "nameSearchTitle": "Search by name",
+  "nameSearchUrl": ""
 }
