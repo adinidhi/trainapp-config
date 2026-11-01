@@ -7,8 +7,8 @@
   "myFiles": true,
   "fileDownload": true,
   "fileShare": true,
-  "latestVersion": 57,
-  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v57.apk",
+  "latestVersion": 58,
+  "apkUrl": "https://raw.githubusercontent.com/adinidhi/trainapp-config/main/apk/TrainSearch-v58.apk",
   "accounts": [
     {
       "username": "Shivam",
@@ -110,17 +110,18 @@
   "festivalTheme": true,
   "routeFees": [
     {
-      "name": "Priyanshu: LTT to UP",
+      "name": "LTT to UP (fixed fare, all)",
       "from": [
         "LTT"
       ],
       "to": [
         "UP"
       ],
-      "fee": 800,
-      "users": [
-        "Priyanshu"
-      ]
+      "flatFare": {
+        "SL": 2000,
+        "3A": 3500,
+        "2A": 4500
+      }
     },
     {
       "name": "Priyanshu: any trip on LTT→GKP trains",
