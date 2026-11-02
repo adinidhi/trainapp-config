@@ -110,6 +110,21 @@
   "festivalTheme": true,
   "routeFees": [
     {
+      "name": "ST/ADI to UP (fixed fare, all)",
+      "from": [
+        "ST",
+        "ADI"
+      ],
+      "to": [
+        "UP"
+      ],
+      "flatFare": {
+        "SL": 2500,
+        "3A": 4000,
+        "2A": 5000
+      }
+    },
+    {
       "name": "LTT to UP (fixed fare, all)",
       "from": [
         "LTT"
