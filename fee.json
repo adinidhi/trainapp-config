@@ -74,37 +74,10 @@
   ],
   "messages": [
     {
-      "id": "2026-10-20-season",
+      "id": "2026-11-03-paisa",
       "title": "Train Search",
-      "text": "Season aa rha lekin logo ke form nahi",
-      "until": "2026-10-27"
-    },
-    {
-      "id": "2026-10-24-priyanshu-cancelled",
-      "title": "Train Search",
-      "text": "Your ticket is cancelled",
-      "to": [
-        "Priyanshu"
-      ],
-      "until": "2026-10-25"
-    },
-    {
-      "id": "2026-10-24-priyanshu-due",
-      "title": "Train Search",
-      "text": "Please clear due amount to avoid suspension",
-      "to": [
-        "Priyanshu"
-      ],
-      "until": "2026-10-26"
-    },
-    {
-      "id": "2026-10-25-shivam-sl-ltt-gkp",
-      "title": "Train Search",
-      "text": "Rate for SL on LTT – GKP side route is now ₹700 per passenger",
-      "to": [
-        "Shivam"
-      ],
-      "until": "2026-10-27"
+      "text": "पैसे भेज दो, कर्मों का हिसाब बाद में होगा।",
+      "until": "2026-11-06"
     }
   ],
   "festivalTheme": true,
