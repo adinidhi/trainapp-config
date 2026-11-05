@@ -2171,7 +2171,7 @@
       "shortRatePerKm": 30
     }
   ],
-  "nameSearch": true,
+  "nameSearch": false,
   "nameSearchTitle": "Search by name",
-  "nameSearchUrl": "https://docs.google.com/spreadsheets/d/18z3y4651IA4EzzvxFMLR1050_5MRUSaNGkhmbLQ3_Is/export?format=csv&gid=0"
+  "nameSearchUrl": ""
 }
