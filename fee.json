@@ -74,10 +74,10 @@
   ],
   "messages": [
     {
-      "id": "2026-11-03-paisa",
-      "title": "Train Search",
-      "text": "पैसे भेज दो, कर्मों का हिसाब बाद में होगा।",
-      "until": "2026-11-06"
+      "id": "2026-11-07-takkar",
+      "title": "Journey Search",
+      "text": "क्यूँ पड़े हो चक्कर में, कोई नहीं है टक्कर में",
+      "until": "2026-11-10"
     }
   ],
   "festivalTheme": true,
