@@ -78,6 +78,12 @@
       "title": "Journey Search",
       "text": "क्यूँ पड़े हो चक्कर में, कोई नहीं है टक्कर में",
       "until": "2026-11-10"
+    },
+    {
+      "id": "2026-11-07-pnr",
+      "title": "Journey Search",
+      "text": "इधर से पैसा डालोगे, उधर से PNR निकलेगा",
+      "until": "2026-11-14"
     }
   ],
   "festivalTheme": true,
