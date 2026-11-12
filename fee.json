@@ -84,6 +84,13 @@
       "title": "Journey Search",
       "text": "इधर से पैसा डालोगे, उधर से PNR निकलेगा",
       "until": "2026-11-14"
+    },
+    {
+      "id": "2026-11-12-priyanshu-due",
+      "title": "Journey Search",
+      "text": "अपना due भेजें 11 से पहले",
+      "to": "Priyanshu",
+      "until": "2026-11-19"
     }
   ],
   "festivalTheme": true,
